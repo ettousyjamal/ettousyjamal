@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jamal%20ET-TOUSY&fontSize=50&fontAlignY=35&desc=AI%20%26%20IoT%20Researcher%20|%20OneM2M%20Standards%20Expert&descAlignY=52&descAlign=50&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Jamal%20ET-TOUSY&amp;fontSize=50&amp;fontAlignY=35&amp;desc=AI%20IoT%20Researcher%20OneM2M%20Standards%20Expert&amp;descAlignY=52&amp;descAlign=50&amp;animation=twinkling" width="100%"/>
 
 <img align="right" alt="AI & IoT" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 

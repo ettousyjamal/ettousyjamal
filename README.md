@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Jamal%20ET-TOUSY&amp;fontSize=50&amp;fontAlignY=35&amp;desc=Researcher%20in%20AI%20IoT%20Applied%20to%20Robotics%20Education%20eHealth%20Agriculture&amp;descAlignY=52&amp;descAlign=50&amp;animation=twinkling" width="100%"/>
 
-<img align="right" alt="AI & IoT" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img align="right" alt="AI & IoT" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+%26+IoT+Research+Specialist;Robotics+%26+Education+Expert;e-Health+%26+AgriTech+Innovator;Machine+Learning+%26+Smart+Systems" alt="Typing SVG" />
@@ -164,6 +164,114 @@ End-to-end application development
 
 </div>
 
+---
+
+## 🎯 Domain-Specific Technologies & Applications
+
+<div align="center">
+
+### 🤖 Robotics Technologies
+
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+
+**Autonomous Navigation • Computer Vision • Sensor Fusion • Real-time Control • Path Planning**
+
+### 🎓 Education Technology
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Moodle](https://img.shields.io/badge/Moodle-FF6B00?style=for-the-badge&logo=moodle&logoColor=white)
+
+**LMS Platforms • Interactive Learning • AI Tutoring • Content Generation • Student Analytics**
+
+### 🏥 e-Health Technologies
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![DICOM](https://img.shields.io/badge/DICOM-005571?style=for-the-badge&logo=dicom&logoColor=white)
+![FHIR](https://img.shields.io/badge/FHIR-FF6600?style=for-the-badge&logo=hl7&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Medical Imaging AI • Multimodal Models • Health IoT • QoS Optimization • Clinical Decision Support**
+
+### 🌾 Agriculture Technologies
+
+![GIS](https://img.shields.io/badge/GIS-007ACC?style=for-the-badge&logo=qgis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Satellite](https://img.shields.io/badge/Remote_Sensing-4CAF50?style=for-the-badge&logo=google-earth&logoColor=white)
+![Weather API](https://img.shields.io/badge/Weather_API-FFA500?style=for-the-badge&logo=weatherapi&logoColor=white)
+
+**Climate Analysis • Crop Monitoring • Spatial Data • Precision Agriculture • IoT Sensors**
+
+</div>
+
+---
+
+## 🧠 Core AI & ML Technologies
+
+<div align="center">
+
+### Machine Learning & Deep Learning
+
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### AI Frameworks & Tools
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+
+### Advanced AI Concepts
+
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![LLMs](https://img.shields.io/badge/Large_Language_Models-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-00D4AA?style=for-the-badge&logo=ai&logoColor=white)
+![Fine Tuning](https://img.shields.io/badge/Fine_Tuning-7B68EE?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-00C4CC?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Reinforcement Learning • Federated Learning • Edge AI • AutoML • Model Optimization**
+
+### 🌐 IoT & Communication Protocols
+
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![CoAP](https://img.shields.io/badge/CoAP-00599C?style=for-the-badge&logo=iot&logoColor=white)
+![OneM2M](https://img.shields.io/badge/OneM2M-0066CC?style=for-the-badge&logo=iot&logoColor=white)
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-009DDC?style=for-the-badge&logo=lora&logoColor=white)
+![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?style=for-the-badge&logo=zigbee&logoColor=white)
+![BLE](https://img.shields.io/badge/Bluetooth_LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![HTTP/REST](https://img.shields.io/badge/HTTP_REST-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Edge Computing • Fog Computing • M2M Communication • QoS • Real-time Data Processing**
+
+### ☁️ Cloud & Data Platforms
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**Time-Series Databases • Data Lakes • Stream Processing • Big Data Analytics • Containerization**
+
+</div>
+
+---
 
 ## 🎯 Current Research & Professional Focus
 

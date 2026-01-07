@@ -4,7 +4,7 @@
 ## AI & IoT Researcher | Founder & CEO of Yanecode Digital
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+%26+IoT+Researcher;Digital+Transformation+Leader;Technology+Innovator;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+%26+IoT+Research+Specialist;OneM2M+Standards+Researcher;Machine+Learning+Expert;Smart+Systems+Innovator" alt="Typing SVG" />
 </p>
 
 ### 🌐 Connect With Me
@@ -14,7 +14,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--0758--6651-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-0758-6651)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Jamal--Et--Tousy-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jamal-Et-Tousy)
 [![IEEE](https://img.shields.io/badge/IEEE-Profile-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/845692295786312)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Jamal%20Et-Tousy%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+[![Google Scholar](https://scholar.google.co.uk/citations?user=J5mwK2sAAAAJ&hl=en&oi=ao)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ettousyjamal&color=blueviolet&style=for-the-badge)
 
@@ -34,9 +34,11 @@
 
 <div align="justify">
 
-🌟 I'm **Jamal ET-TOUSY**, the Founder and CEO of **Yanecode Digital**, a cutting-edge technology company specializing in digital transformation and innovation. With a deep passion for **Artificial Intelligence** and the **Internet of Things**, I lead research initiatives that push the boundaries of what's possible in the digital realm.
+🌟 I'm **Jamal ET-TOUSY**, the Founder and CEO of **Yanecode Digital**, specializing in **Artificial Intelligence** and **Internet of Things** research and development. My expertise lies at the intersection of AI and IoT, where I explore innovative solutions that connect intelligent systems with the physical world.
 
-💡 My work focuses on creating technology that doesn't just solve problems—it transforms industries and improves lives. Through Yanecode Digital, we deliver innovative solutions that help businesses navigate the digital landscape, leveraging the latest advancements in AI and IoT.
+🔬 **Current Research Focus:** I'm actively researching **OneM2M** (One Machine-to-Machine), the global standard for IoT interoperability and M2M communications. My work focuses on developing standardized frameworks that enable seamless communication between IoT devices and platforms, advancing the future of connected systems.
+
+💡 Through **AI-powered IoT solutions**, I create intelligent, interconnected systems that transform how devices communicate, learn, and adapt. My research combines machine learning algorithms with IoT architectures to build smarter, more efficient automated systems.
 
 </div>
 
@@ -74,23 +76,27 @@ End-to-end application development
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
-║  🧠 Artificial Intelligence                                   ║
-║     • Machine Learning  • Deep Learning  • Neural Networks    ║
+║  🧠 Artificial Intelligence & Machine Learning                ║
+║     • Deep Learning  • Neural Networks  • Predictive Models   ║
+║     • Computer Vision  • Natural Language Processing          ║
 ║                                                               ║
 ╠═══════════════════════════════════════════════════════════════╣
 ║                                                               ║
-║  🌐 Internet of Things                                        ║
-║     • IoT Architecture  • Edge Computing  • Sensor Networks   ║
+║  🌐 Internet of Things & M2M Communications                   ║
+║     • OneM2M Standards  • IoT Interoperability                ║
+║     • Edge Computing  • Sensor Networks  • Smart Devices      ║
 ║                                                               ║
 ╠═══════════════════════════════════════════════════════════════╣
 ║                                                               ║
-║  💡 Digital Innovation                                        ║
-║     • Emerging Technologies  • Digital Transformation         ║
+║  🔗 AI-Powered IoT Systems (AIoT)                             ║
+║     • Intelligent Device Communication                        ║
+║     • ML-Enhanced IoT Platforms  • Adaptive Systems           ║
 ║                                                               ║
 ╠═══════════════════════════════════════════════════════════════╣
 ║                                                               ║
-║  ⚡ Smart Systems                                             ║
-║     • Intelligent Automation  • Connected Solutions           ║
+║  ⚡ Smart & Connected Solutions                               ║
+║     • Intelligent Automation  • Industrial IoT                ║
+║     • Real-time Analytics  • System Integration               ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
@@ -138,104 +144,29 @@ End-to-end application development
 
 </div>
 
----
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-### 📱 [Xamarin Mobile Application](https://github.com/ettousyjamal/XamarinProjetct)
-
-![Stars](https://img.shields.io/github/stars/ettousyjamal/XamarinProjetct?style=social)
-![Forks](https://img.shields.io/github/forks/ettousyjamal/XamarinProjetct?style=social)
-Cross-platform mobile application built with Xamarin framework, demonstrating advanced mobile development capabilities.
-
-**Tech Stack:** C#, Xamarin, Mobile Development
-
----
-
-### [Morocco COVID-19 Tracker](https://github.com/ettousyjamal/Morocco-Covid19)
-Real-time tracking system for COVID-19 statistics in Morocco. A citizen initiative using official data to combat misinformation.
-
-**Tech Stack:** HTML, JavaScript, API Integration
-
----
-
-### [Library Management System - ENSA Safi](https://github.com/ettousyjamal/Gestion_Biblio_Ensas)
-Desktop application for managing library operations at ENSA Safi, featuring book tracking, member management, and borrowing systems.
-
-**Tech Stack:** Java, JavaFX, MySQL, Desktop Application
-
----
-
-### [Encryption & Decryption System](https://github.com/ettousyjamal/cryptage-et-decryptage)
-Secure data encryption and decryption solution implementing modern cryptographic algorithms.
-
-**Tech Stack:** Python, Cryptography, Security
-
----
-
-### [IoT Smart Solutions](https://github.com/ettousyjamal/ioi-Grif)
-Internet of Things implementations for smart devices, showcasing IoT architecture and sensor integration.
-
-**Tech Stack:** Python, IoT, Sensors, Embedded Systems
-
----
-
-### [Corona Tracking System](https://github.com/ettousyjamal/corona)
-Git/GitHub exercise project for tracking and visualizing COVID-19 data.
-
-**Tech Stack:** HTML, Version Control
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://img.shields.io/badge/Repositories-10+-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ettousyjamal)
-[![Followers](https://img.shields.io/badge/Followers-11-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ettousyjamal?tab=followers)
-[![Following](https://img.shields.io/badge/Following-2-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ettousyjamal?tab=following)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-red?style=for-the-badge&logo=open-source-initiative&logoColor=white)](https://github.com/ettousyjamal)
-
-<br/>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ettousyjamal&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
-```
-╔════════════════════════════════════════╗
-║  Status: Active Developer              ║
-║  Public Repos: 10+                     ║
-║  Community: Open Source Contributor    ║
-╚════════════════════════════════════════╝
-```
-
-## Professional Focus
+## 🎯 Current Research & Professional Focus
 
 <table>
 <tr>
-<td width="20%" align="center">🎯</td>
-<td width="80%">Leading digital transformation initiatives</td>
+<td width="20%" align="center">🔬</td>
+<td width="80%"><strong>OneM2M Research:</strong> Investigating global IoT standards for interoperability and M2M communication protocols</td>
 </tr>
 <tr>
-<td width="20%" align="center">🔬</td>
-<td width="80%">Researching cutting-edge AI technologies</td>
+<td width="20%" align="center">🧠</td>
+<td width="80%"><strong>AI Systems:</strong> Developing machine learning models and neural networks for intelligent automation</td>
+</tr>
+<tr>
+<td width="20%" align="center">🌐</td>
+<td width="80%"><strong>IoT Architecture:</strong> Designing scalable IoT platforms with edge computing and sensor integration</td>
 </tr>
 <tr>
 <td width="20%" align="center">⚡</td>
-<td width="80%">Developing IoT solutions for smart environments</td>
+<td width="80%"><strong>AIoT Integration:</strong> Combining AI and IoT to create intelligent, adaptive connected systems</td>
 </tr>
 <tr>
 <td width="20%" align="center">🏗️</td>
-<td width="80%">Building scalable software architectures</td>
-</tr>
-<tr>
-<td width="20%" align="center">👨‍🏫</td>
-<td width="80%">Mentoring and knowledge sharing in tech community</td>
+<td width="80%"><strong>Smart Solutions:</strong> Building enterprise-grade AI-powered IoT applications and frameworks</td>
 </tr>
 </table>
 
@@ -244,10 +175,11 @@ Git/GitHub exercise project for tracking and visualizing COVID-19 data.
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃  ▸ Founder & CEO of Yanecode Digital                    ┃
-┃  ▸ 8+ Years in Software Development                     ┃
-┃  ▸ AI & IoT Research and Implementation                 ┃
-┃  ▸ 50+ Solutions Delivered                              ┃
-┃  ▸ Multiple Open Source Contributions                   ┃
+┃  ▸ AI & IoT Research Specialist                         ┃
+┃  ▸ OneM2M Standards Research (Current Focus)            ┃
+┃  ▸ 8+ Years in AI/IoT Development                       ┃
+┃  ▸ 50+ AI-Powered IoT Solutions Delivered               ┃
+┃  ▸ Academic Publications in AI & IoT                    ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
@@ -267,9 +199,15 @@ Tools:         Git, Docker, VS Code, Visual Studio
 Cloud:         AWS, Azure
 ```
 
-## Vision
+## 🔮 Vision & Mission
 
-My vision is to bridge the gap between cutting-edge technology and practical business applications. Through research and development in AI and IoT, I aim to create solutions that are not only innovative but also accessible and impactful.
+<div align="justify">
+
+My vision is to advance the convergence of **Artificial Intelligence** and **Internet of Things** through standardized, interoperable systems. By researching and implementing **OneM2M standards**, I aim to create a unified ecosystem where intelligent devices communicate seamlessly, enabling truly smart environments.
+
+Through **AIoT** (Artificial Intelligence of Things), I'm working to build the next generation of connected systems that not only collect data but learn, adapt, and make intelligent decisions autonomously. My mission is to make these advanced technologies accessible, practical, and transformative for businesses and society.
+
+</div>
 
 ## 📬 Get In Touch
 
@@ -288,9 +226,9 @@ I'm always interested in collaborating on innovative projects, discussing new te
 | 🐙 **GitHub** | [@ettousyjamal](https://github.com/ettousyjamal) |
 | 🎓 **ORCID** | [0009-0005-0758-6651](https://orcid.org/0009-0005-0758-6651) |
 | 📚 **ResearchGate** | [Jamal Et-Tousy](https://www.researchgate.net/profile/Jamal-Et-Tousy) |
-| 📖 **Google Scholar** | [Publications](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Jamal%20Et-Tousy%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en) |
+| 📖 **Google Scholar** | [Publications](https://scholar.google.co.uk/citations?user=J5mwK2sAAAAJ&hl=en&oi=ao) |
 | 🔬 **IEEE** | [Author Profile](https://ieeexplore.ieee.org/author/845692295786312) |
-| 📧 **Email** | contact@yanecode.digital |
+| 📧 **Email** | yanecode@gmail.com |
 
 </div>
 

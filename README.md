@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Jamal%20ET-TOUSY&amp;fontSize=50&amp;fontAlignY=35&amp;desc=AI%20IoT%20Researcher%20OneM2M%20Standards%20Expert&amp;descAlignY=52&amp;descAlign=50&amp;animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Jamal%20ET-TOUSY&amp;fontSize=50&amp;fontAlignY=35&amp;desc=Researcher%20in%20AI%20IoT%20Applied%20to%20Robotics%20Education%20eHealth%20Agriculture&amp;descAlignY=52&amp;descAlign=50&amp;animation=twinkling" width="100%"/>
 
 <img align="right" alt="AI & IoT" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+%26+IoT+Research+Specialist;OneM2M+Standards+Researcher;Machine+Learning+Expert;Smart+Systems+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+%26+IoT+Research+Specialist;Robotics+%26+Education+Expert;e-Health+%26+AgriTech+Innovator;Machine+Learning+%26+Smart+Systems" alt="Typing SVG" />
 </p>
 
 ### 🌐 Connect With Me
@@ -35,11 +35,15 @@
 
 <div align="justify">
 
-🌟 I'm **Jamal ET-TOUSY**, the Founder and CEO of **Yanecode Digital**, specializing in **Artificial Intelligence** and **Internet of Things** research and development. My expertise lies at the intersection of AI and IoT, where I explore innovative solutions that connect intelligent systems with the physical world.
+🌟 I'm **Jamal ET-TOUSY**, the Founder and CEO of **Yanecode Digital**, specializing in **Artificial Intelligence** and **Internet of Things** research and development with applications in critical domains that impact society.
 
-🔬 **Current Research Focus:** I'm actively researching **OneM2M** (One Machine-to-Machine), the global standard for IoT interoperability and M2M communications. My work focuses on developing standardized frameworks that enable seamless communication between IoT devices and platforms, advancing the future of connected systems.
+🔬 **Current Research Focus:** My research applies AI and IoT technologies to four key domains:
+- **🤖 Robotics**: Developing intelligent educational and autonomous robotic systems
+- **🎓 Education**: Creating AI-driven learning platforms and STEM training programs
+- **🏥 e-Health**: Building AI-based medical data analysis and IoT health monitoring systems
+- **🌾 Agriculture**: Implementing AI and IoT solutions for climate-resilient agriculture
 
-💡 Through **AI-powered IoT solutions**, I create intelligent, interconnected systems that transform how devices communicate, learn, and adapt. My research combines machine learning algorithms with IoT architectures to build smarter, more efficient automated systems.
+💡 Through **AI-powered IoT solutions**, I create intelligent, interconnected systems that transform education, healthcare, agriculture, and robotics. My research combines machine learning algorithms with IoT architectures to build practical solutions that address real-world challenges.
 
 </div>
 
@@ -70,34 +74,49 @@ End-to-end application development
 </tr>
 </table>
 
-## 🔬 Research Areas
+## 🔬 Research Areas: AI & IoT Applications
 
 <div align="center">
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
-║  🧠 Artificial Intelligence & Machine Learning                ║
-║     • Deep Learning  • Neural Networks  • Predictive Models   ║
-║     • Computer Vision  • Natural Language Processing          ║
+║  🤖 Robotics                                                  ║
+║     • Smart educational robotics platforms integrating        ║
+║       Arduino, IoT sensors, and AI-based control              ║
+║     • Autonomous robotic systems with real-time sensing,      ║
+║       data collection, and local decision-making              ║
+║     • Machine learning–assisted robot navigation and          ║
+║       behavior optimization                                   ║
 ║                                                               ║
 ╠═══════════════════════════════════════════════════════════════╣
 ║                                                               ║
-║  🌐 Internet of Things & M2M Communications                   ║
-║     • OneM2M Standards  • IoT Interoperability                ║
-║     • Edge Computing  • Sensor Networks  • Smart Devices      ║
+║  🎓 Education                                                 ║
+║     • AI-driven learning platforms for student performance    ║
+║       analysis and personalized recommendations               ║
+║     • Hands-on STEM, AI, and IoT training programs with       ║
+║       real-world projects                                     ║
+║     • Automated generation of educational content using       ║
+║       AI tools                                                ║
 ║                                                               ║
 ╠═══════════════════════════════════════════════════════════════╣
 ║                                                               ║
-║  🔗 AI-Powered IoT Systems (AIoT)                             ║
-║     • Intelligent Device Communication                        ║
-║     • ML-Enhanced IoT Platforms  • Adaptive Systems           ║
+║  🏥 e-Health                                                  ║
+║     • AI-based medical data analysis using multimodal         ║
+║       models (images + text)                                  ║
+║     • IoT health monitoring systems with reliable data        ║
+║       transmission and QoS optimization                       ║
+║     • Decision-support systems using machine learning for     ║
+║       healthcare applications                                 ║
 ║                                                               ║
 ╠═══════════════════════════════════════════════════════════════╣
 ║                                                               ║
-║  ⚡ Smart & Connected Solutions                               ║
-║     • Intelligent Automation  • Industrial IoT                ║
-║     • Real-time Analytics  • System Integration               ║
+║  🌾 Agriculture                                               ║
+║     • Climate impact analysis on crop yields using spatial    ║
+║       and data-driven approaches                              ║
+║     • AI-based agricultural monitoring with IoT sensor data   ║
+║     • Decision-support tools for agricultural resilience      ║
+║       and adaptation                                          ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
@@ -150,24 +169,24 @@ End-to-end application development
 
 <table>
 <tr>
-<td width="20%" align="center">🔬</td>
-<td width="80%"><strong>OneM2M Research:</strong> Investigating global IoT standards for interoperability and M2M communication protocols</td>
+<td width="20%" align="center">🤖</td>
+<td width="80%"><strong>Robotics Research:</strong> Developing AI-powered educational robotics and autonomous systems with IoT integration</td>
 </tr>
 <tr>
-<td width="20%" align="center">🧠</td>
-<td width="80%"><strong>AI Systems:</strong> Developing machine learning models and neural networks for intelligent automation</td>
+<td width="20%" align="center">🎓</td>
+<td width="80%"><strong>Educational Technology:</strong> Creating AI-driven learning platforms and hands-on STEM training programs</td>
 </tr>
 <tr>
-<td width="20%" align="center">🌐</td>
-<td width="80%"><strong>IoT Architecture:</strong> Designing scalable IoT platforms with edge computing and sensor integration</td>
+<td width="20%" align="center">🏥</td>
+<td width="80%"><strong>e-Health Systems:</strong> Building multimodal AI systems for medical data analysis and IoT health monitoring</td>
+</tr>
+<tr>
+<td width="20%" align="center">🌾</td>
+<td width="80%"><strong>Agricultural Innovation:</strong> Implementing AI and IoT solutions for climate-resilient agriculture and crop monitoring</td>
 </tr>
 <tr>
 <td width="20%" align="center">⚡</td>
-<td width="80%"><strong>AIoT Integration:</strong> Combining AI and IoT to create intelligent, adaptive connected systems</td>
-</tr>
-<tr>
-<td width="20%" align="center">🏗️</td>
-<td width="80%"><strong>Smart Solutions:</strong> Building enterprise-grade AI-powered IoT applications and frameworks</td>
+<td width="80%"><strong>AIoT Integration:</strong> Combining AI and IoT to create intelligent solutions across all application domains</td>
 </tr>
 </table>
 
@@ -176,11 +195,11 @@ End-to-end application development
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃  ▸ Founder & CEO of Yanecode Digital                    ┃
-┃  ▸ AI & IoT Research Specialist                         ┃
-┃  ▸ OneM2M Standards Research (Current Focus)            ┃
+┃  ▸ AI & IoT Research in Robotics, Education,            ┃
+┃    e-Health & Agriculture                               ┃
 ┃  ▸ 8+ Years in AI/IoT Development                       ┃
-┃  ▸ 50+ AI-Powered IoT Solutions Delivered               ┃
-┃  ▸ Academic Publications in AI & IoT                    ┃
+┃  ▸ 50+ Applied AI-IoT Solutions Delivered               ┃
+┃  ▸ Academic Publications in AI & IoT Applications       ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
@@ -204,9 +223,9 @@ Cloud:         AWS, Azure
 
 <div align="justify">
 
-My vision is to advance the convergence of **Artificial Intelligence** and **Internet of Things** through standardized, interoperable systems. By researching and implementing **OneM2M standards**, I aim to create a unified ecosystem where intelligent devices communicate seamlessly, enabling truly smart environments.
+My vision is to leverage **Artificial Intelligence** and **Internet of Things** technologies to address critical societal challenges in **Robotics, Education, e-Health, and Agriculture**. I aim to bridge the gap between cutting-edge AI/IoT research and practical applications that improve lives and create sustainable impact.
 
-Through **AIoT** (Artificial Intelligence of Things), I'm working to build the next generation of connected systems that not only collect data but learn, adapt, and make intelligent decisions autonomously. My mission is to make these advanced technologies accessible, practical, and transformative for businesses and society.
+Through **AIoT** (Artificial Intelligence of Things), I'm developing intelligent systems that transform how we learn, heal, grow food, and interact with autonomous machines. My mission is to make these advanced technologies accessible, practical, and transformative—creating solutions that empower educators, healthcare professionals, farmers, and communities worldwide.
 
 </div>
 

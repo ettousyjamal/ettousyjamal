@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jamal%20ET-TOUSY&fontSize=50&fontAlignY=35&desc=AI%20%26%20IoT%20Researcher%20|%20OneM2M%20Standards%20Expert&descAlignY=52&descAlign=50&animation=twinkling" width="100%"/>
+
+<img align="right" alt="AI & IoT" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 # 🚀 Jamal ET-TOUSY
 ## AI & IoT Researcher | Founder & CEO of Yanecode Digital
 
@@ -14,7 +18,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--0758--6651-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-0758-6651)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Jamal--Et--Tousy-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jamal-Et-Tousy)
 [![IEEE](https://img.shields.io/badge/IEEE-Profile-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/845692295786312)
-[![Google Scholar](https://scholar.google.co.uk/citations?user=J5mwK2sAAAAJ&hl=en&oi=ao)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.co.uk/citations?user=J5mwK2sAAAAJ&hl=en&oi=ao)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ettousyjamal&color=blueviolet&style=for-the-badge)
 

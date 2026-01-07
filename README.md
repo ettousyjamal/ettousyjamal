@@ -1,21 +1,46 @@
-# Jamal ET-TOUSY - Portfolio
+<div align="center">
 
-> AI & IoT Researcher | Founder & CEO of Yanecode Digital
+# 🚀 Jamal ET-TOUSY
+## AI & IoT Researcher | Founder & CEO of Yanecode Digital
 
-[![GitHub](https://img.shields.io/badge/GitHub-ettousyjamal-181717?style=for-the-badge&logo=github)](https://github.com/ettousyjamal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jamaltaoussi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jamaltaoussi/)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+%26+IoT+Researcher;Digital+Transformation+Leader;Technology+Innovator;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
-## About Me
+### 🌐 Connect With Me
 
-![Role](https://img.shields.io/badge/Role-Founder%20%26%20CEO-blue?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-AI%20%26%20IoT-green?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Actively%20Building-success?style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-ettousyjamal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ettousyjamal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jamaltaoussi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamaltaoussi/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--0758--6651-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-0758-6651)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Jamal--Et--Tousy-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jamal-Et-Tousy)
+[![IEEE](https://img.shields.io/badge/IEEE-Profile-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/845692295786312)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Jamal%20Et-Tousy%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
 
-I'm **Jamal ET-TOUSY**, the Founder and CEO of **Yanecode Digital**, a cutting-edge technology company specializing in digital transformation and innovation. With a deep passion for **Artificial Intelligence** and the **Internet of Things**, I lead research initiatives that push the boundaries of what's possible in the digital realm.
+![Profile Views](https://komarev.com/ghpvc/?username=ettousyjamal&color=blueviolet&style=for-the-badge)
 
-My work focuses on creating technology that doesn't just solve problems—it transforms industries and improves lives. Through Yanecode Digital, we deliver innovative solutions that help businesses navigate the digital landscape, leveraging the latest advancements in AI and IoT.
+---
 
-## Yanecode Digital
+</div>
+
+## 👨‍💻 About Me
+
+<div align="center">
+
+![Role](https://img.shields.io/badge/Role-Founder%20%26%20CEO-blue?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-AI%20%26%20IoT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Actively%20Building-success?style=for-the-badge)
+
+</div>
+
+<div align="justify">
+
+🌟 I'm **Jamal ET-TOUSY**, the Founder and CEO of **Yanecode Digital**, a cutting-edge technology company specializing in digital transformation and innovation. With a deep passion for **Artificial Intelligence** and the **Internet of Things**, I lead research initiatives that push the boundaries of what's possible in the digital realm.
+
+💡 My work focuses on creating technology that doesn't just solve problems—it transforms industries and improves lives. Through Yanecode Digital, we deliver innovative solutions that help businesses navigate the digital landscape, leveraging the latest advancements in AI and IoT.
+
+</div>
+
+## 🏢 Yanecode Digital
 
 **Yanecode Digital** is a forward-thinking technology company that helps businesses harness the power of artificial intelligence and connected devices to drive innovation and achieve digital transformation.
 
@@ -42,62 +67,80 @@ End-to-end application development
 </tr>
 </table>
 
-## Research Areas
+## 🔬 Research Areas
+
+<div align="center">
 
 ```ascii
-┌─────────────────────────────────────────────────────────────┐
-│  ► Artificial Intelligence                                  │
-│    Machine Learning, Deep Learning, Neural Networks         │
-├─────────────────────────────────────────────────────────────┤
-│  ► Internet of Things                                       │
-│    IoT Architecture, Edge Computing, Sensor Networks        │
-├─────────────────────────────────────────────────────────────┤
-│  ► Digital Innovation                                       │
-│    Emerging technologies and their applications             │
-├─────────────────────────────────────────────────────────────┤
-│  ► Smart Systems                                            │
-│    Intelligent automation and connected solutions           │
-└─────────────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║  🧠 Artificial Intelligence                                   ║
+║     • Machine Learning  • Deep Learning  • Neural Networks    ║
+║                                                               ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║  🌐 Internet of Things                                        ║
+║     • IoT Architecture  • Edge Computing  • Sensor Networks   ║
+║                                                               ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║  💡 Digital Innovation                                        ║
+║     • Emerging Technologies  • Digital Transformation         ║
+║                                                               ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║  ⚡ Smart Systems                                             ║
+║     • Intelligent Automation  • Connected Solutions           ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
-## Technical Expertise
+</div>
 
-### Programming Languages
+## 💻 Technical Expertise
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Expert-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-Expert-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=flat-square&logo=css3&logoColor=white)
+<div align="center">
 
-### AI & Data Science
+### 🔤 Programming Languages
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Expert-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-Expert-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- Machine Learning • Deep Learning • Data Analytics • Predictive Modeling
+### 🤖 AI & Data Science
 
-### IoT & Embedded Systems
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+**Machine Learning • Deep Learning • Data Analytics • Predictive Modeling**
 
-- Sensor Integration • Edge Computing • Device Communication • Smart Automation
+### 🔌 IoT & Embedded Systems
 
-### Software Development
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+**Sensor Integration • Edge Computing • Device Communication • Smart Automation**
 
-- Full Stack Development • Mobile Applications • Desktop Applications • Web Development
+### ⚙️ Software Development
 
-## Featured Projects
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Full Stack Development • Mobile Applications • Desktop Applications • Web Development**
+
+</div>
+
+---
+
+## 🎯 Featured Projects
 
 <div align="center">
 
@@ -148,14 +191,18 @@ Git/GitHub exercise project for tracking and visualizing COVID-19 data.
 
 **Tech Stack:** HTML, Version Control
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Stats](https://img.shields.io/badge/Repositories-10+-blue?style=for-the-badge&logo=github)](https://github.com/ettousyjamal)
-[![Followers](https://img.shields.io/badge/Followers-11-green?style=for-the-badge&logo=github)](https://github.com/ettousyjamal?tab=followers)
-[![Following](https://img.shields.io/badge/Following-2-yellow?style=for-the-badge&logo=github)](https://github.com/ettousyjamal?tab=following)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-red?style=for-the-badge&logo=open-source-initiative)](https://github.com/ettousyjamal)
+[![GitHub Stats](https://img.shields.io/badge/Repositories-10+-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ettousyjamal)
+[![Followers](https://img.shields.io/badge/Followers-11-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ettousyjamal?tab=followers)
+[![Following](https://img.shields.io/badge/Following-2-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ettousyjamal?tab=following)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-red?style=for-the-badge&logo=open-source-initiative&logoColor=white)](https://github.com/ettousyjamal)
+
+<br/>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ettousyjamal&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
@@ -224,33 +271,44 @@ Cloud:         AWS, Azure
 
 My vision is to bridge the gap between cutting-edge technology and practical business applications. Through research and development in AI and IoT, I aim to create solutions that are not only innovative but also accessible and impactful.
 
-## Get In Touch
+## 📬 Get In Touch
+
+<div align="center">
 
 ![Contact](https://img.shields.io/badge/Status-Open%20to%20Collaborate-brightgreen?style=for-the-badge)
 
 I'm always interested in collaborating on innovative projects, discussing new technologies, or exploring business opportunities.
 
-<div align="center">
+### Professional & Academic Profiles
 
-| Contact | Link |
-|---------|------|
-| 🏢 Company | **Yanecode Digital** |
-| 💼 LinkedIn | [Jamal Taoussi](https://www.linkedin.com/in/jamaltaoussi/) |
-| 🐙 GitHub | [@ettousyjamal](https://github.com/ettousyjamal) |
-| 📧 Email | contact@yanecode.digital |
+| Platform | Link |
+|----------|------|
+| 🏢 **Company** | **Yanecode Digital** |
+| 💼 **LinkedIn** | [Jamal Taoussi](https://www.linkedin.com/in/jamaltaoussi/) |
+| 🐙 **GitHub** | [@ettousyjamal](https://github.com/ettousyjamal) |
+| 🎓 **ORCID** | [0009-0005-0758-6651](https://orcid.org/0009-0005-0758-6651) |
+| 📚 **ResearchGate** | [Jamal Et-Tousy](https://www.researchgate.net/profile/Jamal-Et-Tousy) |
+| 📖 **Google Scholar** | [Publications](https://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Jamal%20Et-Tousy%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en) |
+| 🔬 **IEEE** | [Author Profile](https://ieeexplore.ieee.org/author/845692295786312) |
+| 📧 **Email** | contact@yanecode.digital |
 
 </div>
 
-## Let's Collaborate
+## 🤝 Let's Collaborate
 
-Whether you're looking to:
-- Implement AI solutions in your business
-- Develop IoT systems and smart devices
-- Transform your organization digitally
-- Build innovative software applications
-- Research emerging technologies
+<div align="center">
 
-**Let's build something amazing together!**
+### Whether you're looking to:
+
+✨ Implement AI solutions in your business  
+🔧 Develop IoT systems and smart devices  
+🚀 Transform your organization digitally  
+💻 Build innovative software applications  
+🔬 Research emerging technologies  
+
+### **Let's build something amazing together!**
+
+</div>
 
 ---
 

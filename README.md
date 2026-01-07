@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Jamal%20ET-TOUSY&amp;fontSize=50&amp;fontAlignY=35&amp;desc=Researcher%20in%20AI%20IoT%20Applied%20to%20Robotics%20Education%20eHealth%20Agriculture&amp;descAlignY=52&amp;descAlign=50&amp;animation=twinkling" width="100%"/>
 
-<img align="right" alt="AI & IoT" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="AI & IoT" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+%26+IoT+Research+Specialist;Robotics+%26+Education+Expert;e-Health+%26+AgriTech+Innovator;Machine+Learning+%26+Smart+Systems" alt="Typing SVG" />

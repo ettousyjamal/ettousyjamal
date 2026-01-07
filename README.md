@@ -4,9 +4,6 @@
 
 <img align="right" alt="AI & IoT" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-# 🚀 Jamal ET-TOUSY
-## AI & IoT Researcher | Founder & CEO of Yanecode Digital
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+%26+IoT+Research+Specialist;OneM2M+Standards+Researcher;Machine+Learning+Expert;Smart+Systems+Innovator" alt="Typing SVG" />
 </p>
